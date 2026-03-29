@@ -1,3 +1,5 @@
 {
-    "python.terminal.useEnvFile": true
+    "python.terminal.useEnvFile": true,
+    "python.defaultInterpreterPath": "/Users/anmolgarg/Documents/GenAI/Rag_Tutorial/.venv/bin/python",
+    "jupyter.jupyterServerType": "local"
 }
