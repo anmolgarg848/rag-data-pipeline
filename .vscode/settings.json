@@ -2,5 +2,6 @@
     "python.terminal.useEnvFile": true,
     "python.defaultInterpreterPath": "/Users/anmolgarg/Documents/GenAI/Rag_Tutorial/.venv/bin/python",
     "jupyter.jupyterServerType": "local",
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "notebook.output.wordWrap": true
 }
